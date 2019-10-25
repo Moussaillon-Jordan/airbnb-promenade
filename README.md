@@ -1,24 +1,11 @@
-# README
+# Airbnb Promenade
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+L'idée du siècle qui va te payer tes vacances
 
-Things you may want to cover:
+Schéma proche de l'exo précédent
 
-* Ruby version
+Création des models Dog, Dogsitter et Stroll
 
-* System dependencies
+Dog et Dogsitter sont reliés via la table Stroll
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Puis ajout du model City
